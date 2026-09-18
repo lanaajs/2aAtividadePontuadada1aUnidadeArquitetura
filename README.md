@@ -1,9 +1,10 @@
 # 2ª Atividade Pontuada da 1ª Unidade — Arquitetura de Softwares
+# Estudantes: Alana de Jesus e Kayke Queiroz
+
+---
 
 **UCSAL — Padrões de Projeto**
 Padrões da categoria **Extensão**: Decorator, Iterator e Visitor
-
----
 
 ## O que são padrões de extensão
 
