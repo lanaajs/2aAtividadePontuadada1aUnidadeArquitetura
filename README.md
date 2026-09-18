@@ -1,5 +1,5 @@
-# 2ª Atividade Pontuada da 1ª Unidade — Arquitetura de Softwares
-# Estudantes: Alana de Jesus e Kayke Queiroz
+## 2ª Atividade Pontuada da 1ª Unidade — Arquitetura de Softwares
+### Estudantes: Alana de Jesus e Kayke Queiroz
 
 ---
 
